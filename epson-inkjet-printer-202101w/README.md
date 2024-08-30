@@ -1,8 +1,8 @@
 <b> Epson L3210 </b>
 
-This is a driver for many Epson EcoTank L3210 printer.
+This is a driver for the Epson EcoTank L3210 printer.
 
-Search the models if you need other.
+Please search the model if you need another driver.
 
 https://download.ebz.epson.net/dsc/search/01/search/?OSC=LX
 
